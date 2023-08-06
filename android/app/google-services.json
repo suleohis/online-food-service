@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "483428257071",
+    "project_id": "food-court-129f6",
+    "storage_bucket": "food-court-129f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483428257071:android:71ccdfbc7babe2b041a5da",
+        "android_client_info": {
+          "package_name": "com.example.food_court"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483428257071-bq0odlhsgejgnqqe95u7argoau2pfi0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_court",
+            "certificate_hash": "1ae63f698f273598e1410c92c8316d296b6b4bfc"
+          }
+        },
+        {
+          "client_id": "483428257071-0bkrupu1ol2cdkp80jk0flu13osekpl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSd9SkgPmdNutcGuHfVfx_sp_pmGKKeQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483428257071-0bkrupu1ol2cdkp80jk0flu13osekpl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
